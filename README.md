@@ -8,7 +8,7 @@ Blog: https://seoksoo.tistory.com/
 
 ## Projects
 
-### UE5 C++ Boss Fight(Unfinished)
+### UE5 C++ Boss Fight(On Progress)
 
 - https://github.com/odysem1/Unreal_Bossfight_Portfolio
 - Unreal Engine 5.8 / C++
